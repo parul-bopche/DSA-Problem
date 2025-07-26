@@ -21,6 +21,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2580-circular-sentence](https://github.com/parul-bopche/DSA-Problem/tree/master/2580-circular-sentence) |
 | [2881-split-strings-by-separator](https://github.com/parul-bopche/DSA-Problem/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/parul-bopche/DSA-Problem/tree/master/2886-faulty-keyboard) |
 ## Prefix Sum
