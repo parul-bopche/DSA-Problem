@@ -6,6 +6,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0001-two-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/parul-bopche/DSA-Problem/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -14,6 +15,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0001-two-sum) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/parul-bopche/DSA-Problem/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
