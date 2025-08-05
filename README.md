@@ -66,6 +66,15 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
+| [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
 | [3830-find-closest-person](https://github.com/parul-bopche/DSA-Problem/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/parul-bopche/DSA-Problem/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+## Combinatorics
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
+## Enumeration
+|  |
+| ------- |
+| [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
 <!---LeetCode Topics End-->
