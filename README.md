@@ -65,4 +65,5 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
+| [3830-find-closest-person](https://github.com/parul-bopche/DSA-Problem/tree/master/3830-find-closest-person) |
 <!---LeetCode Topics End-->
