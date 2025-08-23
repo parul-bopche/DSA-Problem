@@ -10,6 +10,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0004-median-of-two-sorted-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -98,6 +99,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
@@ -114,6 +116,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
