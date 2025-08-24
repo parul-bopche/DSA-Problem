@@ -18,6 +18,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0118-pascals-triangle](https://github.com/parul-bopche/DSA-Problem/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parul-bopche/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/parul-bopche/DSA-Problem/tree/master/0907-koko-eating-bananas) |
@@ -39,6 +40,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/parul-bopche/DSA-Problem/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -94,6 +96,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -137,4 +140,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0118-pascals-triangle](https://github.com/parul-bopche/DSA-Problem/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parul-bopche/DSA-Problem/tree/master/0152-maximum-product-subarray) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
