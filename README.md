@@ -15,6 +15,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/parul-bopche/DSA-Problem/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parul-bopche/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
@@ -134,5 +135,6 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/parul-bopche/DSA-Problem/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parul-bopche/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
