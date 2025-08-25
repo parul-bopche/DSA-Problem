@@ -41,6 +41,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/parul-bopche/DSA-Problem/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -52,6 +53,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
+| [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2580-circular-sentence](https://github.com/parul-bopche/DSA-Problem/tree/master/2580-circular-sentence) |
@@ -98,6 +100,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
 |  |
@@ -145,8 +148,17 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
