@@ -8,6 +8,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0001-two-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
@@ -53,6 +54,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -164,4 +166,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
