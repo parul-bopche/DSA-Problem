@@ -56,6 +56,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2032-largest-odd-number-in-string](https://github.com/parul-bopche/DSA-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/parul-bopche/DSA-Problem/tree/master/2580-circular-sentence) |
 | [2881-split-strings-by-separator](https://github.com/parul-bopche/DSA-Problem/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/parul-bopche/DSA-Problem/tree/master/2886-faulty-keyboard) |
@@ -90,6 +91,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/parul-bopche/DSA-Problem/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +116,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2032-largest-odd-number-in-string](https://github.com/parul-bopche/DSA-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
 | [3830-find-closest-person](https://github.com/parul-bopche/DSA-Problem/tree/master/3830-find-closest-person) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/parul-bopche/DSA-Problem/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
