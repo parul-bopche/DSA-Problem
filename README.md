@@ -52,6 +52,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
+| [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2580-circular-sentence](https://github.com/parul-bopche/DSA-Problem/tree/master/2580-circular-sentence) |
 | [2881-split-strings-by-separator](https://github.com/parul-bopche/DSA-Problem/tree/master/2881-split-strings-by-separator) |
@@ -144,4 +145,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
