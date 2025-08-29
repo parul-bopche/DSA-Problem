@@ -48,6 +48,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Bit Manipulation
 |  |
 | ------- |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/parul-bopche/DSA-Problem/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
