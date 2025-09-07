@@ -27,6 +27,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/parul-bopche/DSA-Problem/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/parul-bopche/DSA-Problem/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/parul-bopche/DSA-Problem/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/parul-bopche/DSA-Problem/tree/master/1646-kth-missing-positive-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -47,6 +48,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/parul-bopche/DSA-Problem/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/parul-bopche/DSA-Problem/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -76,6 +78,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/parul-bopche/DSA-Problem/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/parul-bopche/DSA-Problem/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Simulation
@@ -111,6 +114,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/parul-bopche/DSA-Problem/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
 |  |
@@ -132,6 +136,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/parul-bopche/DSA-Problem/tree/master/2032-largest-odd-number-in-string) |
 | [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
