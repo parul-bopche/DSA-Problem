@@ -24,3 +24,16 @@ class Solution {
         return res;
     }
 }
+
+//le brute force smbhal
+ // check every subarray
+        // for (int i = 0; i < n; i++) {
+        //     HashSet<Integer> set = new HashSet<>();
+        //     for (int j = i; j < n; j++) {
+        //         set.add(nums[j]);
+        //         // if subarray [i..j] has all k distinct elements
+        //         if (set.size() == k) {
+        //             ans++;
+        //         }
+        //     }
+        // }
