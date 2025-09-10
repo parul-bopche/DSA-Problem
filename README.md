@@ -49,6 +49,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
@@ -74,6 +75,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/parul-bopche/DSA-Problem/tree/master/0058-length-of-last-word) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/parul-bopche/DSA-Problem/tree/master/0812-rotate-string) |
@@ -124,6 +126,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/parul-bopche/DSA-Problem/tree/master/1034-subarrays-with-k-different-integers) |
@@ -181,6 +184,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
