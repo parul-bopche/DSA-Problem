@@ -40,6 +40,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/parul-bopche/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/parul-bopche/DSA-Problem/tree/master/2881-split-strings-by-separator) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/parul-bopche/DSA-Problem/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/parul-bopche/DSA-Problem/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/parul-bopche/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +138,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/parul-bopche/DSA-Problem/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/parul-bopche/DSA-Problem/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Sorting
 |  |
 | ------- |
