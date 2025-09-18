@@ -154,6 +154,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [0541-reverse-string-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0541-reverse-string-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -218,4 +219,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
