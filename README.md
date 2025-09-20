@@ -10,6 +10,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0004-median-of-two-sorted-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
@@ -146,6 +147,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -153,6 +155,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
