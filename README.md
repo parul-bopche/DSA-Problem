@@ -148,6 +148,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0015-3sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/parul-bopche/DSA-Problem/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -160,6 +161,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0541-reverse-string-ii) |
@@ -199,6 +201,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/parul-bopche/DSA-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
@@ -235,6 +238,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0328-odd-even-linked-list) |
@@ -249,4 +253,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
