@@ -164,6 +164,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -238,6 +239,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
