@@ -174,6 +174,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0007-reverse-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/parul-bopche/DSA-Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -250,6 +251,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/parul-bopche/DSA-Problem/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/parul-bopche/DSA-Problem/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 ## Stack
