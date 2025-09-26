@@ -21,6 +21,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0118-pascals-triangle](https://github.com/parul-bopche/DSA-Problem/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/parul-bopche/DSA-Problem/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/parul-bopche/DSA-Problem/tree/master/0260-single-number-iii) |
@@ -176,6 +177,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/parul-bopche/DSA-Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
 | [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/parul-bopche/DSA-Problem/tree/master/2032-largest-odd-number-in-string) |
@@ -189,6 +191,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
 | [3199-distribute-candies-among-children-i](https://github.com/parul-bopche/DSA-Problem/tree/master/3199-distribute-candies-among-children-i) |
 ## Matrix
 |  |
@@ -262,4 +265,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
