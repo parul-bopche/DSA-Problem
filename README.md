@@ -12,6 +12,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0015-3sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/parul-bopche/DSA-Problem/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0054-spiral-matrix) |
@@ -160,6 +161,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/parul-bopche/DSA-Problem/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
