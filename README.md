@@ -117,6 +117,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0074-search-a-2d-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
+| [0441-arranging-coins](https://github.com/parul-bopche/DSA-Problem/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/parul-bopche/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/parul-bopche/DSA-Problem/tree/master/1046-max-consecutive-ones-iii) |
@@ -180,6 +181,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0050-powx-n](https://github.com/parul-bopche/DSA-Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
+| [0441-arranging-coins](https://github.com/parul-bopche/DSA-Problem/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2032-largest-odd-number-in-string](https://github.com/parul-bopche/DSA-Problem/tree/master/2032-largest-odd-number-in-string) |
