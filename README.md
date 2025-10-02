@@ -83,6 +83,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/parul-bopche/DSA-Problem/tree/master/0058-length-of-last-word) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0415-add-strings](https://github.com/parul-bopche/DSA-Problem/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0541-reverse-string-ii) |
@@ -108,6 +109,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/parul-bopche/DSA-Problem/tree/master/0415-add-strings) |
 | [2886-faulty-keyboard](https://github.com/parul-bopche/DSA-Problem/tree/master/2886-faulty-keyboard) |
 ## Binary Search
 |  |
@@ -181,6 +183,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0050-powx-n](https://github.com/parul-bopche/DSA-Problem/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
+| [0415-add-strings](https://github.com/parul-bopche/DSA-Problem/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/parul-bopche/DSA-Problem/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/parul-bopche/DSA-Problem/tree/master/1817-calculate-money-in-leetcode-bank) |
