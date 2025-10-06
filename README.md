@@ -26,6 +26,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/parul-bopche/DSA-Problem/tree/master/0260-single-number-iii) |
+| [0496-next-greater-element-i](https://github.com/parul-bopche/DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0540-single-element-in-a-sorted-array) |
 | [0907-koko-eating-bananas](https://github.com/parul-bopche/DSA-Problem/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
@@ -58,6 +59,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
+| [0496-next-greater-element-i](https://github.com/parul-bopche/DSA-Problem/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/parul-bopche/DSA-Problem/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/parul-bopche/DSA-Problem/tree/master/1370-count-number-of-nice-subarrays) |
@@ -272,6 +274,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/parul-bopche/DSA-Problem/tree/master/0496-next-greater-element-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -280,4 +283,8 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/parul-bopche/DSA-Problem/tree/master/0204-count-primes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/parul-bopche/DSA-Problem/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
