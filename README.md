@@ -55,6 +55,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parul-bopche/DSA-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -171,6 +172,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parul-bopche/DSA-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
 | [0541-reverse-string-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0541-reverse-string-ii) |
@@ -256,6 +258,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/parul-bopche/DSA-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/parul-bopche/DSA-Problem/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0234-palindrome-linked-list) |
