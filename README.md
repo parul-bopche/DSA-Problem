@@ -57,6 +57,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/parul-bopche/DSA-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/parul-bopche/DSA-Problem/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/parul-bopche/DSA-Problem/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/parul-bopche/DSA-Problem/tree/master/0424-longest-repeating-character-replacement) |
@@ -87,6 +88,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/parul-bopche/DSA-Problem/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/parul-bopche/DSA-Problem/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/parul-bopche/DSA-Problem/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0409-longest-palindrome](https://github.com/parul-bopche/DSA-Problem/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/parul-bopche/DSA-Problem/tree/master/0415-add-strings) |
