@@ -15,6 +15,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0031-next-permutation](https://github.com/parul-bopche/DSA-Problem/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/parul-bopche/DSA-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/parul-bopche/DSA-Problem/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/parul-bopche/DSA-Problem/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/parul-bopche/DSA-Problem/tree/master/0074-search-a-2d-matrix) |
@@ -52,6 +53,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0001-two-sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/parul-bopche/DSA-Problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/parul-bopche/DSA-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/parul-bopche/DSA-Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0142-linked-list-cycle-ii) |
@@ -87,6 +89,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | [0013-roman-to-integer](https://github.com/parul-bopche/DSA-Problem/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/parul-bopche/DSA-Problem/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/parul-bopche/DSA-Problem/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/parul-bopche/DSA-Problem/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/parul-bopche/DSA-Problem/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/parul-bopche/DSA-Problem/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/parul-bopche/DSA-Problem/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -162,6 +165,7 @@ DSA-Problem 🚀 This repo contains my solutions to DSA problems from LeetCode, 
 | ------- |
 | [0015-3sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/parul-bopche/DSA-Problem/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/parul-bopche/DSA-Problem/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/parul-bopche/DSA-Problem/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/parul-bopche/DSA-Problem/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/parul-bopche/DSA-Problem/tree/master/0451-sort-characters-by-frequency) |
